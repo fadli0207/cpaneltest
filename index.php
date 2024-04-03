@@ -1,3 +1,4 @@
+ada tambahan
 <?php
 phpinfo();
 ?>
